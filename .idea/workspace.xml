@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd24752d-3435-466e-a7c0-6f89c22f2bf6" name="Default" comment="+Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/react-chat.iml" afterPath="" />
+    <list default="true" id="fd24752d-3435-466e-a7c0-6f89c22f2bf6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -427,7 +425,7 @@
       <updated>1538924715587</updated>
       <workItem from="1538924717411" duration="9697000" />
       <workItem from="1539109775387" duration="345000" />
-      <workItem from="1539197061535" duration="7253000" />
+      <workItem from="1539197061535" duration="7295000" />
     </task>
     <task id="LOCAL-00001" summary="+Initial commit">
       <created>1539204032404</created>
@@ -436,11 +434,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539204032404</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="+Removed .idea directory">
+      <created>1539204329477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539204329477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17295000" />
+    <option name="totallyTimeSpent" value="17337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1937" y="0" width="1922" height="1081" extended-state="6" />
@@ -516,7 +521,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="+Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="+Initial commit" />
+    <MESSAGE value="+Removed .idea directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="+Removed .idea directory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
